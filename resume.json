@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "Sven Hüßner",
+    "label": "Backend Programmer/DevOps Engineer",
+    "picture": "",
+    "email": "sven@svenhuessner.de",
+    "website": "https://worp.one",
+    "summary": "Sven was born in lower Franconia, Germany. He studied theatre, media and applied computer science at the university of Bayreuth, Germany. Having spent some intense rookie years in the digital city Munich, working as an IT consultant at Netlight for clients like Audi, Sixt or FTI Touristik, he has switched to a family-first focus with the birth of his son. Having left Munich he is mostly doing freelance work these days and some dearly loved projects.",
+    "profiles": [
+      {
+        "network": "XING",
+        "username": "Sven_Huessner",
+        "url": "https://www.xing.com/profile/Sven_Huessner"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Perbility",
+      "position": "Backend Developer/DevOps Engineer",
+      "website": "http://www.perbility.de",
+      "startDate": "2017-08-19",
+      "endDate": "2999-01-01",
+      "summary": "At Perbility we are revolutionizing the way middle to large companies handle business processes. HELIX is a fully customizable process management software capable of handling literally any process, from HR to management, ordering coffee at a cafe or SAP environments. As a backend developer the team and I build the modular, generic framework that powers HELIX and allow our application developers to create arbitrary process management application on top of it. As a DevOps engineer I engage in deployment and infrastructure challenges and help to guarantee maximum stability and performance.",
+      "highlights": [
+        "Created a framework to model arbitrary business processes",
+        "Established an innovation lab to think about the future of the company and next generation products"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Bayreuth",
+      "area": "Theatre, Media and Applied Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2008-10-01",
+      "endDate": "2012-07-31",
+      "grade": "1.4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Development",
+      "level": "Master",
+      "keywords": [
+        "PHP",
+	"Java",
+	"Go",
+	"C#",
+	"TypeScript"
+      ]
+    },
+    {
+      "name": "DevOps Engineer",
+      "level": "Master",
+      "keywords": [
+	"Continuous Integration and Deployment",
+	"Linux (especially Ubuntu, RedHat, FreeBSD, Debian)",
+	"Oracle DB",
+	"MySQL",
+	"MongoDB",
+	"Redis",
+	"Ansible",
+	"Docker",
+	"Bash",
+	"Maven",
+	"Grunt",
+	"Gulp",
+	"Ant"
+      ]
+    },
+    {
+      "name": "FrontEnd Development",
+      "level": "Intermediate",
+      "keywords": [
+	"Angular 4.0",
+	"HTML",
+	"CSS", 
+	"Javascript",
+	"TypeScript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Almost native"
+    }
+
+  ],
+  "interests": [
+    {
+      "name": "Family",
+      "keywords": [
+        "Adventure",
+        "Love",
+	"Challenge"
+      ]
+    },
+    {
+	"name": "Computer Games",
+	"keywords": [
+	  "League of Legends",
+	  "Skyrim"
+	]
+    }
+  ]
+}
