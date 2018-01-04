@@ -20,7 +20,6 @@
       "position": "Backend Developer/DevOps Engineer",
       "website": "http://www.perbility.de",
       "startDate": "2017-08-19",
-      "endDate": "2999-01-01",
       "summary": "At Perbility we are revolutionizing the way middle to large companies handle business processes. HELIX is a fully customizable process management software capable of handling literally any process, from HR to management, ordering coffee at a cafe or SAP environments. As a backend developer the team and I build the modular, generic framework that powers HELIX and allow our application developers to create arbitrary process management application on top of it. As a DevOps engineer I engage in deployment and infrastructure challenges and help to guarantee maximum stability and performance.",
       "highlights": [
         "Created a framework to model arbitrary business processes",
