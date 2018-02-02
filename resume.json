@@ -5,12 +5,16 @@
     "picture": "",
     "email": "sven@svenhuessner.de",
     "website": "https://worp.one",
-    "summary": "Sven was born in lower Franconia, Germany. He studied theatre, media and applied computer science at the university of Bayreuth, Germany. Having spent some intense rookie years in the digital city Munich, working as an IT consultant at Netlight for clients like Audi, Sixt or FTI Touristik, he has switched to a family-first focus with the birth of his son. Having left Munich he is mostly doing freelance work these days and some dearly loved projects.",
+    "summary": "Sven was born in lower Franconia, Germany. He studied theatre, media and applied computer science at the university of Bayreuth, Germany. Having spent some intense rookie years in the digital city Munich, working as an IT consultant at Netlight for clients like Audi, Sixt or FTI Touristik, he has switched to a family-first focus with the birth of his son. Having left Munich he is sometimes available for some freelance work these days and some dearly loved projects.",
     "profiles": [
       {
         "network": "XING",
         "username": "Sven_Huessner",
         "url": "https://www.xing.com/profile/Sven_Huessner"
+      }, {
+        "network": "LinkedIn",
+        "username": "Sven Hüßner",
+        "url": "https://www.linkedin.com/in/sven-hüßner-855b5b117"
       }
     ]
   },
@@ -24,6 +28,50 @@
       "highlights": [
         "Created a framework to model arbitrary business processes",
         "Established an innovation lab to think about the future of the company and next generation products"
+      ]
+    },
+    {
+      "company": "Netlight Consulting",
+      "position": "IT Consultant",
+      "website": "https://www.netlight.com/",
+      "startDate": "2015-06-01",
+      "endDate": "2017-08-31",
+      "summary": "Netlight is a genuine, value driven consulting firm in management and IT. We refine the concept of IT-consulting to be about talents who, in cooperation, create valuable results for our clients. Netlight operates throughout Europe with offices in Stockholm, Oslo, London, Munich, Hamburg, Berlin and Helsinki. Netlight has been a reliable supplier of qualified consulting services since 1999 and currently employs more than 600 employees.",
+      "highlights": [
+        "Evolved FTI's \"sonnenklar.tv\" website with a hand crafted booking engine and smart API layer to intelligently select best performing travel options for customers: https://www.sonnenklar.tv/",
+        "Rebuilt Sixt' world-wide vehicle management system from a COBOL legacy system into a modern web application. Key requirements included providing an intelligent guard system to adhere to all legal regulations involved in all car processes in all 105 countries that Sixt operates in.",
+        "Supported the team bringing Sixt IT to the cloud in creating a AWS and Docker based automatic deployment system for all IT projects of Sixt for the future."
+      ]
+    },
+    {
+      "company": "Community owner",
+      "position": "Of game designing and crypto mining",
+      "website": "https://mindworp.de",
+      "startDate": "2012-03-01",
+      "summary": "I am running mindworp.de, a gaming community for 250+ gamers, together with my brother. We host game servers, provide communication, host tournaments and write server administration tools to keep our community growing.",
+      "highlights": [
+        "Managing an active, live community of ~250 with around 30-40 unique actives on weekend days.",
+        "Maintaining a GitLab for our coding members.",
+        "Teamspeak - NPO hosting",
+        "Providing web hosting for our members.",
+        "Running an OwnCloud instance for our members.",
+        "Providing and maintaining various game servers including but not limited to Minecraft, CounterStrike, Don't starve, Left4Dead2, Ark Survival Evolved and many more."
+      ]
+    },
+    {
+      "company": "Ancient history",
+      "position": "Of game designing and crypto mining",
+      "website": "https://worp.one",
+      "startDate": "2012-03-01",
+      "endDate": "2015-06-01",
+      "summary": "Before I joined Netlight in 2015, I used to be many things. Having found my passion for tech, I joined up with Rayd for some majorly creative projects and soluzione knowledge for some insights into eLearning. Check out the full story on my LinkedIn or XING profile. Or talk to me. I will glady tell you!",
+      "highlights": [
+        "Evolved deployment and tech base of soluzione's \"Autopilot\" and \"Lernwelt\" to a modern stack of varying technologies.",
+        "Developed a data exchange server to allow arbitrary communication between mobile clients, servers and applications.",
+        "Ran a web-show called \"Web vs. Promi\" where kids play motion-detection games at home on their webcams against a star-guest in the studio, featuring Daniel Budiman.",
+        "Worked on the first drafts of Angry Birds Epic.",
+        "Designed the mobile game \"Towers and Dungeons\" for Ravensburger Digital.",
+        "Built a crypto mining rig ;)"
       ]
     }
   ],
@@ -43,40 +91,70 @@
       "level": "Master",
       "keywords": [
         "PHP",
-	"Java",
-	"Go",
-	"C#",
-	"TypeScript"
+        "Java",
+        "Go",
+        "C#",
+        "TypeScript",
+        "Various frameworks for each language"
       ]
     },
     {
       "name": "DevOps Engineer",
       "level": "Master",
       "keywords": [
-	"Continuous Integration and Deployment",
-	"Linux (especially Ubuntu, RedHat, FreeBSD, Debian)",
-	"Oracle DB",
-	"MySQL",
-	"MongoDB",
-	"Redis",
-	"Ansible",
-	"Docker",
-	"Bash",
-	"Maven",
-	"Grunt",
-	"Gulp",
-	"Ant"
+        "Saas",
+        "Paas",
+        "Cloud Infrastructure",
+        "Continuous Integration and Deployment",
+        "Linux (especially Ubuntu, CentOS, Debian)",
+        "Oracle DB",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "ELK - Elasticsearch, Logstash, Kibana",
+        "Nginx",
+        "Apache",
+        "Node",
+        "Vagrant",
+        "Ansible",
+        "Docker",
+        "Bash",
+        "Maven",
+        "Grunt",
+        "Gulp",
+        "Ant",
+        "AWS",
+        "Windows Azure"
       ]
     },
     {
       "name": "FrontEnd Development",
       "level": "Intermediate",
       "keywords": [
-	"Angular 4.0",
-	"HTML",
-	"CSS", 
-	"Javascript",
-	"TypeScript"
+        "Angular 4.0",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "Agile development",
+      "level": "Intermediate",
+      "keywords": [
+        "SCRUM",
+        "Kanban"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "keywords": [
+        "Atlassian toolkit",
+        "git",
+        "SVN",
+        "Jetbrains IDEs",
+        "Git"
       ]
     }
   ],
@@ -97,15 +175,15 @@
       "keywords": [
         "Adventure",
         "Love",
-	"Challenge"
+        "Challenge"
       ]
     },
     {
-	"name": "Computer Games",
-	"keywords": [
-	  "League of Legends",
-	  "Skyrim"
-	]
+      "name": "Computer Games",
+      "keywords": [
+        "League of Legends",
+        "Skyrim"
+      ]
     }
   ]
 }
